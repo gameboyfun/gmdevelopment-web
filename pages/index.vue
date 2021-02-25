@@ -177,7 +177,6 @@
                 <div class="col-lg-12">
                   <b-form-file
                     v-model="form.img"
-                    :state="Boolean(form.img)"
                     accept="image/*"
                     placeholder="Choose an example file"
                     drop-placeholder="Drop file here..."
