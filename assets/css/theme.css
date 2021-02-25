@@ -1,0 +1,104 @@
+/* .navbar-dark .navbar-nav .nav-link{
+    color:white!important;
+} */
+
+/* .mynavbar {
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+    background-color: #1F2232;
+    background:transparent;
+} */
+
+.fulldiv {
+    position: relative;
+}
+
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    position: absolute;
+    -webkit-filter: grayscale(60%);
+    -moz-animation-filter: grayscale(60%);
+    -ms-animation-filter: grayscale(60%);
+    -o-animation-filter: grayscale(60%);
+    filter: grayscale(60%);
+}
+
+.font {
+    color:white !important;
+}
+
+.inside-div {
+    display:flex; 
+    justify-content: center;
+}
+
+.body {
+    font-family: 'Mali', cursive;
+    background-color: #D2D7DF;
+    position: relative;
+    top: 100vh;
+}
+
+#collapse > div > li > a {
+    color: white !important;
+}
+
+#collapse > div > li > a:hover {
+    color: #D2D7DF !important;
+}
+
+.indiv {
+    padding-right: 0 !important;
+}
+
+.rownomr {
+    margin-right: 0 !important;
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+}
+
+.image2 {
+    width: 100%;
+    height: 100%;
+}
+
+.link {
+    color: black;
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+    #facebook {
+        margin-left: 3px;
+    }
+
+    #collapse {
+        margin-left: auto;
+    }
+
+    .bgNavtrans {
+        width: 100%;
+        height: 12vh;
+        position: fixed;
+        z-index: 9;
+        background: transparent;
+        animation: fadein;
+    }
+    
+    .bgNav {
+        width: 100%;
+        /* height: 12vh; */
+        position: fixed;
+        z-index: 9;
+        background-color: #1F2232;
+        animation: fadein;
+    }
+
+}

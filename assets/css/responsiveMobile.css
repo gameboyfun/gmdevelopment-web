@@ -1,0 +1,786 @@
+/* Mobile */
+@media (max-width: 991px) {
+
+    /* Width */
+    @media (max-width: 947px) {
+        #collapse {
+            width: 21% !important;
+        }
+    }
+
+    @media (max-width: 904px) {
+        #collapse {
+            width: 22% !important;
+        }
+    }
+
+    @media (max-width: 864px) {
+        #collapse {
+            width: 23% !important;
+        }
+    }
+
+    @media (max-width: 828px) {
+        #collapse {
+            width: 24% !important;
+        }
+    }
+
+    @media (max-width: 795px) {
+        #collapse {
+            width: 25% !important;
+        }
+    }
+
+    @media (max-width: 764px) {
+        #collapse {
+            width: 26% !important;
+        }
+    }
+
+    @media (max-width: 736px) {
+        #collapse {
+            width: 27% !important;
+        }
+    }
+
+    @media (max-width: 710px) {
+        #collapse {
+            width: 28% !important;
+        }
+    }
+
+    @media (max-width: 686px) {
+        #collapse {
+            width: 29% !important;
+        }
+    }
+
+    @media (max-width: 663px) {
+        #collapse {
+            width: 30% !important;
+        }
+    }
+
+    @media (max-width: 642px) {
+        #collapse {
+            width: 31% !important;
+        }
+    }
+
+    @media (max-width: 622px) {
+        #collapse {
+            width: 32% !important;
+        }
+    }
+
+    @media (max-width: 604px) {
+        #collapse {
+            width: 33% !important;
+        }
+    }
+
+    @media (max-width: 587px) {
+        #collapse {
+            width: 34% !important;
+        }
+    }
+
+    @media (max-width: 570px) {
+        #collapse {
+            width: 35% !important;
+        }
+    }
+
+    @media (max-width: 555px) {
+        #collapse {
+            width: 36% !important;
+        }
+    }
+
+    @media (max-width: 540px) {
+        #collapse {
+            width: 37% !important;
+        }
+    }
+
+    @media (max-width: 527px) {
+        #collapse {
+            width: 38% !important;
+        }
+    }
+
+    @media (max-width: 513px) {
+        #collapse {
+            width: 39% !important;
+        }
+    }
+
+    @media (max-width: 501px) {
+        #collapse {
+            width: 40% !important;
+        }
+    }
+
+    @media (max-width: 489px) {
+        #collapse {
+            width: 41% !important;
+        }
+    }
+
+    @media (max-width: 478px) {
+        #collapse {
+            width: 42% !important;
+        }
+    }
+
+    @media (max-width: 468px) {
+        #collapse {
+            width: 43% !important;
+        }
+    }
+
+    @media (max-width: 457px) {
+        #collapse {
+            width: 44% !important;
+        }
+    }
+
+    @media (max-width: 448px) {
+        #collapse {
+            width: 45% !important;
+        }
+    }
+
+    @media (max-width: 439px) {
+        #collapse {
+            width: 46% !important;
+        }
+    }
+
+    @media (max-width: 430px) {
+        #collapse {
+            width: 47% !important;
+        }
+    }
+
+    @media (max-width: 421px) {
+        #collapse {
+            width: 48% !important;
+        }
+    }
+
+    @media (max-width: 413px) {
+        #collapse {
+            width: 49% !important;
+        }
+    }
+
+    @media (max-width: 405px) {
+        #collapse {
+            width: 50% !important;
+        }
+    }
+
+    @media (max-width: 398px) {
+        #collapse {
+            width: 51% !important;
+        }
+    }
+
+    @media (max-width: 391px) {
+        #collapse {
+            width: 52% !important;
+        }
+    }
+
+    @media (max-width: 384px) {
+        #collapse {
+            width: 53% !important;
+        }
+    }
+
+    @media (max-width: 377px) {
+        #collapse {
+            width: 54% !important;
+        }
+    }
+
+    @media (max-width: 371px) {
+        #collapse {
+            width: 55% !important;
+        }
+    }
+
+    @media (max-width: 365px) {
+        #collapse {
+            width: 56% !important;
+        }
+    }
+
+    @media (max-width: 359px) {
+        #collapse {
+            width: 57% !important;
+        }
+    }
+
+    @media (max-width: 353px) {
+        #collapse {
+            width: 58% !important;
+        }
+    }
+
+    @media (max-width: 347px) {
+        #collapse {
+            width: 59% !important;
+        }
+    }
+
+    @media (max-width: 342px) {
+        #collapse {
+            width: 60% !important;
+        }
+    }
+
+    @media (max-width: 337px) {
+        #collapse {
+            width: 61% !important;
+        }
+    }
+
+    @media (max-width: 332px) {
+        #collapse {
+            width: 62% !important;
+        }
+    }
+
+    @media (max-width: 327px) {
+        #collapse {
+            width: 63% !important;
+        }
+    }
+
+    @media (max-width: 322px) {
+        #collapse {
+            width: 64% !important;
+        }
+    }
+
+    @media (max-width: 318px) {
+        #collapse {
+            width: 65% !important;
+        }
+    }
+
+    @media (max-width: 313px) {
+        #collapse {
+            width: 66% !important;
+        }
+    }
+
+    @media (max-width: 309px) {
+        #collapse {
+            width: 67% !important;
+        }
+    }
+
+    @media (max-width: 305px) {
+        #collapse {
+            width: 68% !important;
+        }
+    }
+
+    @media (max-width: 301px) {
+        #collapse {
+            width: 69% !important;
+        }
+    }
+
+    @media (max-width: 297px) {
+        #collapse {
+            width: 70% !important;
+        }
+    }
+
+    @media (max-width: 293px) {
+        #collapse {
+            width: 71% !important;
+        }
+    }
+
+    @media (max-width: 289px) {
+        #collapse {
+            width: 72% !important;
+        }
+    }
+
+    @media (max-width: 286px) {
+        #collapse {
+            width: 73% !important;
+        }
+    }
+
+    @media (max-width: 282px) {
+        #collapse {
+            width: 74% !important;
+        }
+    }
+
+    @media (max-width: 279px) {
+        #collapse {
+            width: 75% !important;
+        }
+    }
+
+    @media (max-width: 276px) {
+        #collapse {
+            width: 76% !important;
+        }
+    }
+
+    @media (max-width: 272px) {
+        #collapse {
+            width: 77% !important;
+        }
+    }
+
+    @media (max-width: 269px) {
+        #collapse {
+            width: 78% !important;
+        }
+    }
+
+    @media (max-width: 266px) {
+        #collapse {
+            width: 79% !important;
+        }
+    }
+
+    @media (max-width: 263px) {
+        #collapse {
+            width: 80% !important;
+        }
+    }
+
+    @media (max-width: 260px) {
+        #collapse {
+            width: 81% !important;
+        }
+    }
+
+    @media (max-width: 258px) {
+        #collapse {
+            width: 82% !important;
+        }
+    }
+
+    @media (max-width: 255px) {
+        #collapse {
+            width: 83% !important;
+        }
+    }
+
+    @media (max-width: 252px) {
+        #collapse {
+            width: 84% !important;
+        }
+    }
+
+    @media (max-width: 250px) {
+        #collapse {
+            width: 85% !important;
+        }
+    }
+
+    @media (max-width: 247px) {
+        #collapse {
+            width: 86% !important;
+        }
+    }
+
+    @media (max-width: 244px) {
+        #collapse {
+            width: 87% !important;
+        }
+    }
+
+    @media (max-width: 242px) {
+        #collapse {
+            width: 88% !important;
+        }
+    }
+
+    @media (max-width: 240px) {
+        #collapse {
+            width: 89% !important;
+        }
+    }
+
+    @media (max-width: 237px) {
+        #collapse {
+            width: 90% !important;
+        }
+    }
+
+    @media (max-width: 235px) {
+        #collapse {
+            width: 91% !important;
+        }
+    }
+
+    @media (max-width: 233px) {
+        #collapse {
+            width: 92% !important;
+        }
+    }
+
+    @media (max-width: 231px) {
+        #collapse {
+            width: 93% !important;
+        }
+    }
+
+    @media (max-width: 228px) {
+        #collapse {
+            width: 94% !important;
+        }
+    }
+
+    @media (max-width: 226px) {
+        #collapse {
+            width: 95% !important;
+        }
+    }
+
+    @media (max-width: 224px) {
+        #collapse {
+            width: 96% !important;
+        }
+    }
+
+    @media (max-width: 222px) {
+        #collapse {
+            width: 97% !important;
+        }
+    }
+
+    @media (max-width: 220px) {
+        #collapse {
+            width: 98% !important;
+        }
+    }
+
+    @media (max-width: 218px) {
+        #collapse {
+            width: 99% !important;
+        }
+    }
+
+    @media (max-width: 217px) {
+        #collapse {
+            width: 100% !important;
+        }
+    }
+    /* end Width */
+
+    /* Height */
+    @media (max-height: 4320px) {
+        .bgNav {
+            height: 2.3%;
+        }
+    }
+
+    @media (max-height: 4000px) {
+        .bgNav {
+            height: 2.4%;
+        }
+    }
+
+    @media (max-height: 3700px) {
+        .bgNav {
+            height: 2.5%;
+        }
+    }
+
+    @media (max-height: 3580px) {
+        .bgNav {
+            height: 2.6%;
+        }
+    }
+
+    @media (max-height: 3400px) {
+        .bgNav {
+            height: 2.8%;
+        }
+    }
+
+    @media (max-height: 3200px) {
+        .bgNav {
+            height: 3%;
+        }
+    }
+
+    @media (max-height: 3000px) {
+        .bgNav {
+            height: 3.2%;
+        }
+    }
+
+    @media (max-height: 2800px) {
+        .bgNav {
+            height: 3.4%;
+        }
+    }
+
+    @media (max-height: 2600px) {
+        .bgNav {
+            height: 3.6%;
+        }
+    }
+
+    @media (max-height: 2400px) {
+        .bgNav {
+            height: 3.8%;
+        }
+    }
+
+    @media (max-height: 2200px) {
+        .bgNav {
+            height: 4%;
+        }
+    }
+
+    @media (max-height: 2100px) {
+        .bgNav {
+            height: 4.5%;
+        }
+    }
+
+    @media (max-height: 2000px) {
+        .bgNav {
+            height: 5%;
+        }
+    }
+
+    @media (max-height: 1700px) {
+        .bgNav {
+            height: 5.5%;
+        }
+    }
+
+    @media (max-height: 1600px) {
+        .bgNav {
+            height: 6%;
+        }
+    }
+
+    @media (max-height: 1500px) {
+        .bgNav {
+            height: 6.5%;
+        }
+    }
+
+    @media (max-height: 1400px) {
+        .bgNav {
+            height: 7%;
+        }
+    }
+
+    @media (max-height: 1300px) {
+        .bgNav {
+            height: 7.5%;
+        }
+    }
+
+    @media (max-height: 1200px) {
+        .bgNav {
+            height: 8%;
+        }
+    }
+
+    @media (max-height: 1100px) {
+        .bgNav {
+            height: 8.5%;
+        }
+    }
+
+    @media (max-height: 1000px) {
+        .bgNav {
+            height: 9%;
+        }
+    }
+
+    @media (max-height: 950px) {
+        .bgNav {
+            height: 9.5%;
+        }
+    }
+
+    @media (max-height: 900px) {
+        .bgNav {
+            height: 10%;
+        }
+    }
+
+    @media (max-height: 850px) {
+        .bgNav {
+            height: 11%;
+        }
+    }
+
+    @media (max-height: 800px) {
+        .bgNav {
+            height: 12%;
+        }
+    }
+
+    @media (max-height: 700px) {
+        .bgNav {
+            height: 13%;
+        }
+    }
+
+    @media (max-height: 650px) {
+        .bgNav {
+            height: 14%;
+        }
+    }
+
+    @media (max-height: 600px) {
+        .bgNav {
+            height: 15%;
+        }
+    }
+
+    @media (max-height: 550px) {
+        .bgNav {
+            height: 17%;
+        }
+    }
+
+    @media (max-height: 500px) {
+        .bgNav {
+            height: 19%;
+        }
+    }
+
+    @media (max-height: 450px) {
+        .bgNav {
+            height: 21%;
+        }
+    }
+
+    @media (max-height: 400px) {
+        .bgNav {
+            height: 24%;
+        }
+    }
+
+    @media (max-height: 350px) {
+        .bgNav {
+            height: 27%;
+        }
+    }
+
+    @media (max-height: 300px) {
+        .bgNav {
+            height: 30%;
+        }
+    }
+
+    @media (max-height: 270px) {
+        .bgNav {
+            height: 35%;
+        }
+    }
+
+    @media (max-height: 240px) {
+        .bgNav {
+            height: 40%;
+        }
+    }
+
+    @media (max-height: 210px) {
+        .bgNav {
+            height: 45%;
+        }
+    }
+
+    @media (max-height: 190px) {
+        .bgNav {
+            height: 50%;
+        }
+    }
+
+    @media (max-height: 170px) {
+        .bgNav {
+            height: 55%;
+        }
+    }
+
+    @media (max-height: 150px) {
+        .bgNav {
+            height: 64%;
+        }
+    }
+
+    @media (max-height: 130px) {
+        .bgNav {
+            height: 73%;
+        }
+    }
+
+    @media (max-height: 110px) {
+        .bgNav {
+            height: 85%;
+        }
+    }
+
+    @media (max-height: 100px) {
+        .bgNav {
+            height: 100%;
+        }
+    }
+    /* End Height */
+
+    @media (max-width: 575px) {
+        #contact-icon {
+            justify-content: start !important;
+        }
+    }
+
+    #facebook {
+        padding-top: 1px;
+        margin-top: 5px;
+    }
+
+    #collapse {
+        background-color: #1F2232;
+        margin-left: auto;
+        width: 20%;
+        border-color: #596475;
+        border-style: solid;
+        border-radius: 10px; 
+        padding: 10px;
+    }
+
+    .bgNavtrans {
+        width: 100%;
+        height: 11vh;
+        position: fixed;
+        z-index: 10;
+        background: transparent;
+        animation: fadein;
+    }
+    
+    .bgNav {
+        width: 100%;
+        /* height: 11vh; */
+        position: fixed;
+        z-index: 9;
+        background-color: #1F2232 !important;
+        animation: fadein;
+    }
+
+}
+/* End Mobile */
